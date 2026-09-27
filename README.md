@@ -94,7 +94,7 @@ pip install -r requirements.txt
    ```bash
    streamlit run app/app.py
    ```
-
+4. Notebooks render more reliably on [nbviewer](https://nbviewer.org/github/Shashank05-87/customer-intelligence/tree/main/notebooks/).
 **Stack:** Python · pandas · scikit-learn · XGBoost · SHAP · Streamlit · Altair
 
 Data: Chen, D. (2012). Online Retail II [Dataset]. UCI Machine Learning Repository. CC BY 4.0.
